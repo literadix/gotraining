@@ -5,7 +5,7 @@
 
 // Declare an untyped and typed constant and display their values.
 //
-// Multiply two literal constants into a typed variable and display the value.
+// Divide two literal constants into a typed variable and display the value.
 package main
 
 // Add imports.
